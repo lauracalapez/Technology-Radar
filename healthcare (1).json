@@ -1,5 +1,17 @@
 [
-  {
+{
+ "quadrants": [
+   { "name": "Tranformational" },
+   { "name": "High" },
+   { "name": "Moderate" },
+   { "name": "Low" }
+ ],
+ "rings": [
+   { "name": "Critical"},
+   { "name": "Urgent"},
+   { "name": "Important"},
+   { "name": "Watch"}
+ ],
     "name": "Ambient Digital Scribe",
     "ring": "Critical",
     "quadrant": "High",
@@ -28,6 +40,3 @@
     "description": "<p>Large Language Models are advanced AI systems trained on vast datasets of medical and clinical text to generate human-like summaries, answers, and insights based on unstructured healthcare data such as clinical notes, patient records, and transcripts. </p> <p>In healthcare, LLMs are used to automatically synthesize large volumes of free-text medical data such as physician notes, lab results, radiology reports, and care team discussions, into concise, structured summaries.</p>"
   }
   ]
-  
-]
-  
