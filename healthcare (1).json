@@ -1,19 +1,4 @@
 [
-{
- "title": "Healthcare Tech Radar",
- "quadrants": [
-   { "name": "Tranformational" },
-   { "name": "High" },
-   { "name": "Moderate" },
-   { "name": "Low" }
- ],
- "rings": [
-   { "name": "Critical"},
-   { "name": "Urgent"},
-   { "name": "Important"},
-   { "name": "Watch"}
- ]},
-  [
   {
     "name": "Ambient Digital Scribe",
     "ring": "Critical",
