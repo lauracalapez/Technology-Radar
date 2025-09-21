@@ -1,18 +1,4 @@
 [
-{
- "quadrant": [
-   { "name": "Tranformational" },
-   { "name": "High" },
-   { "name": "Moderate" },
-   { "name": "Low" }
- ],
- "ring": [
-   { "name": "Critical"},
-   { "name": "Urgent"},
-   { "name": "Important"},
-   { "name": "Watch"}
- ]
-},
   {
     "name": "Ambient Digital Scribe",
     "ring": "Critical",
