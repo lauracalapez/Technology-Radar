@@ -1,0 +1,47 @@
+[
+{
+ "title": "Healthcare Tech Radar",
+ "quadrants": [
+   { "name": "Tranformational" },
+   { "name": "High" },
+   { "name": "Moderate" },
+   { "name": "Low" }
+ ],
+ "rings": [
+   { "name": "Critical",  "color": "#93c47d" },
+   { "name": "Urgent",  "color": "#93d2c2" },
+   { "name": "Important", "color": "#fbdb84" },
+   { "name": "Watch",   "color": "#efafa9" }
+ ],
+ "entries":[
+  {
+    "label": "Ambient Digital Scribe",
+    "ring": "Critical",
+    "quadrant": "High",
+    "isNew": "true",
+    "description": "<p>An AI-powered tool that listens passively to doctor-patient conversations during consultations and automatically generates structured clinical documentation in real-time. Using speech recognition, natural language processing (NLP), and contextual understanding, it transforms unstructured dialogue into accurate notes or entries, reducing manual data entry and allowing clinicians to focus on patient care. </p>"
+  },
+  {
+    "label": "LLMs for Clinical Synopsis",
+    "ring": "Urgent",
+    "quadrant": "Low",
+    "isNew": "true",
+    "description": "<p>Large Language Models are advanced AI systems trained on vast datasets of medical and clinical text to generate human-like summaries, answers, and insights based on unstructured healthcare data such as clinical notes, patient records, and transcripts. </p> <p>In healthcare, LLMs are used to automatically synthesize large volumes of free-text medical data such as physician notes, lab results, radiology reports, and care team discussions, into concise, structured summaries.</p>"
+  },
+  {
+    "label": "test 1",
+    "ring": "Watch",
+    "quadrant": "Moderate",
+    "isNew": "true",
+    "description": "<p>Large Language Models are advanced AI systems trained on vast datasets of medical and clinical text to generate human-like summaries, answers, and insights based on unstructured healthcare data such as clinical notes, patient records, and transcripts. </p> <p>In healthcare, LLMs are used to automatically synthesize large volumes of free-text medical data such as physician notes, lab results, radiology reports, and care team discussions, into concise, structured summaries.</p>"
+  },
+    {
+    "label": "test 2",
+    "ring": "Important",
+    "quadrant": "Transformational",
+    "isNew": "false",
+    "description": "<p>Large Language Models are advanced AI systems trained on vast datasets of medical and clinical text to generate human-like summaries, answers, and insights based on unstructured healthcare data such as clinical notes, patient records, and transcripts. </p> <p>In healthcare, LLMs are used to automatically synthesize large volumes of free-text medical data such as physician notes, lab results, radiology reports, and care team discussions, into concise, structured summaries.</p>"
+  }
+  ]
+  }
+  ]
