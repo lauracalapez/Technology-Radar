@@ -1,12 +1,12 @@
 [
 {
- "quadrants": [
+ "quadrant": [
    { "name": "Tranformational" },
    { "name": "High" },
    { "name": "Moderate" },
    { "name": "Low" }
  ],
- "rings": [
+ "ring": [
    { "name": "Critical"},
    { "name": "Urgent"},
    { "name": "Important"},
